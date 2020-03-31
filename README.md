@@ -2,6 +2,10 @@
 
 Monitors Amazon and sends a text when watched products become available. It will send a text at most once per day per product.
 
+**Note**
+
+Requires a Twilio account.
+
 ## Installation
 
 1. Clone this repo.
