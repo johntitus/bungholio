@@ -1,6 +1,6 @@
 # Bungholio
 
-Monitors Amazon and sends a text when watched products become available. It will send a text at most once per day per product.
+Monitors Amazon and sends a text when watched products (like TP) become available. It will send a text at most once per day per product.
 
 **Note**
 
