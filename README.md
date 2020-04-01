@@ -9,8 +9,9 @@ Requires a Twilio account.
 ## Installation
 
 1. Clone this repo.
-2. Modify items.json with the name and url of products you want to watch.
-3. Create a .env file with the following Twilio attributes
+2. `npm install` or `yarn install`
+3. Modify items.json with the name and url of products you want to watch.
+4. Create a .env file with the following Twilio attributes
 
 ```
 accountSid=twilioSid
@@ -19,7 +20,7 @@ twilioFrom='+yourTwilioPhoneNumber'
 twilioTo='+phoneNumberToText'
 ```
 
-4. Run it
+5. Run it
 
 ```
    node index.js
