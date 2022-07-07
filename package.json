@@ -11,7 +11,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "dotenv": "^8.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "puppeteer": "^2.1.1",
     "twilio": "^3.41.1"
   }
